@@ -1,0 +1,9 @@
+{
+  "name": "idGeneratorPackageTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@adrianbabieczko/random-generator": "^1.0.0"
+  }
+}
